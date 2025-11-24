@@ -1,5 +1,5 @@
-# Preguntes tipus test interactives:
-## Com utilitzar-les? 
+# Guia ràpida a RemNote per a practicar les preguntes tipus test de DBD.
+## Com importar-les a RemNote? 
 1. Crear-se una compta a RemNote. Pots seguir [aquest](https://www.remnote.com/) link.
 2. Un cop a dintre de RemNote, fes click al teu perfil. Apareixerà un desplegable on et sortirà la opció d'importar notes. 
 3. Importa el fitxer `PreguntesTipoTest2025QT.rem`. Fent això ja tindras les notes importades.
